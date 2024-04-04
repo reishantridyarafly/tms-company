@@ -13,6 +13,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [App\Http\Controllers\BerandaController::class, 'index'])->name('beranda.index');
+Route::get('/tentang', [App\Http\Controllers\TentangController::class, 'index'])->name('tentang.index');
+
+Route::get('/artikel', [App\Http\Controllers\ArtikelController::class, 'index'])->name('artikel.index');
+Route::get('/artikel/detail', [App\Http\Controllers\ArtikelController::class, 'detail'])->name('artikel.detail');
+
+Route::get('/kontak', [App\Http\Controllers\KontakController::class, 'index'])->name('kontak.index');
