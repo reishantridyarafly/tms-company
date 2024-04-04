@@ -123,9 +123,10 @@
                                         <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
                                         <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
                                     </ul>
-                                    <p class="text-muted mt-2">" It seems that only fragments of the original text
-                                        remain in the Lorem Ipsum texts used today. "</p>
-                                    <h6 class="text-primary">- Thomas Israel <small class="text-muted">C.E.O</small>
+                                    <p class="text-muted mt-2">"Saya sangat terkesan dengan solusi teknologi yang inovatif
+                                        dari Teknologi Mandiri Sentosa. Mereka benar-benar membantu bisnis saya berkembang
+                                        dengan cepat!. "</p>
+                                    <h6 class="text-primary">- Andi <small class="text-muted">C.E.O</small>
                                     </h6>
                                 </div>
                             </div>
@@ -144,9 +145,10 @@
                                         <li class="list-inline-item"><i class="mdi mdi-star-half text-warning"></i>
                                         </li>
                                     </ul>
-                                    <p class="text-muted mt-2">" One disadvantage of Lorum Ipsum is that in Latin
-                                        certain letters appear more frequently than others. "</p>
-                                    <h6 class="text-primary">- Barbara McIntosh <small class="text-muted">M.D</small>
+                                    <p class="text-muted mt-2">"Hubungan jangka panjang yang saya bangun dengan TMS sungguh
+                                        berarti bagi bisnis saya. Mereka selalu siap mendengarkan dan memberikan solusi yang
+                                        tepat untuk setiap tantangan yang kami hadapi. "</p>
+                                    <h6 class="text-primary">- Dewi <small class="text-muted">M.D</small>
                                     </h6>
                                 </div>
                             </div>
@@ -164,9 +166,8 @@
                                         <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
                                         <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
                                     </ul>
-                                    <p class="text-muted mt-2">" The most well-known dummy text is the 'Lorem Ipsum',
-                                        which is said to have originated in the 16th century. "</p>
-                                    <h6 class="text-primary">- Carl Oliver <small class="text-muted">P.A</small></h6>
+                                    <p class="text-muted mt-2">" Teknologi Mandiri Sentosa telah membawa bisnis kami ke level berikutnya dengan solusi teknologi yang terdepan dalam industri. Kami sangat puas dengan hasilnya! "</p>
+                                    <h6 class="text-primary">- Citra <small class="text-muted">P.A</small></h6>
                                 </div>
                             </div>
                         </div>
@@ -183,9 +184,8 @@
                                         <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
                                         <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
                                     </ul>
-                                    <p class="text-muted mt-2">" According to most sources, Lorum Ipsum can be traced
-                                        back to a text composed by Cicero. "</p>
-                                    <h6 class="text-primary">- Christa Smith <small class="text-muted">Manager</small>
+                                    <p class="text-muted mt-2">" TMS bukan hanya sekadar penyedia solusi teknologi, tetapi juga mitra yang peduli. Mereka selalu memastikan kebutuhan dan harapan kami terpenuhi, membuat pengalaman kerja sama kami sangat menyenangkan. "</p>
+                                    <h6 class="text-primary">- Budi <small class="text-muted">Manager</small>
                                     </h6>
                                 </div>
                             </div>
@@ -203,9 +203,8 @@
                                         <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
                                         <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
                                     </ul>
-                                    <p class="text-muted mt-2">" There is now an abundance of readable dummy texts.
-                                        These are usually used when a text is required. "</p>
-                                    <h6 class="text-primary">- Dean Tolle <small class="text-muted">Developer</small>
+                                    <p class="text-muted mt-2">" Tim di TMS sungguh luar biasa! Mereka tidak hanya ahli dalam teknologi, tetapi juga sangat berdedikasi untuk membantu bisnis kami mencapai kesuksesan. Terima kasih, TMS! "</p>
+                                    <h6 class="text-primary">- Eka <small class="text-muted">Developer</small>
                                     </h6>
                                 </div>
                             </div>
@@ -223,9 +222,8 @@
                                         <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
                                         <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
                                     </ul>
-                                    <p class="text-muted mt-2">" Thus, Lorem Ipsum has only limited suitability as a
-                                        visual filler for German texts. "</p>
-                                    <h6 class="text-primary">- Jill Webb <small class="text-muted">Designer</small>
+                                    <p class="text-muted mt-2">" Dengan bantuan TMS, bisnis kami berhasil menghadapi perubahan digital dengan lebih percaya diri. Mereka membantu kami memahami tren industri dan memberikan solusi yang sesuai dengan kebutuhan bisnis kami. Sungguh rekomendasi! "</p>
+                                    <h6 class="text-primary">- Fajar <small class="text-muted">Designer</small>
                                     </h6>
                                 </div>
                             </div>

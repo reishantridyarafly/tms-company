@@ -7,35 +7,24 @@
             <div class="row">
                 <div class="col-lg-8 col-md-7">
                     <div class="card border-0 shadow rounded overflow-hidden">
-                        <img src="assets/images/blog/standard.jpg" class="img-fluid" alt="">
+                        <img src="{{ asset('assets') }}/images/blog/standard.jpg" class="img-fluid" alt="">
 
                         <div class="card-body">
                             <div class="text-center">
                                 <span class="badge bg-primary">Travel</span>
-                                <h4 class="mt-3">A lifestyle you always being <br> the focal point is innately unhealthy.
+                                <h4 class="mt-3">Menghadirkan Solusi Teknologi Inovatif: Kunci Kesuksesan Bisnis di Era
+                                    Digital
                                 </h4>
 
                                 <ul class="list-unstyled mt-3">
                                     <li class="list-inline-item user text-muted me-2"><i class="mdi mdi-account"></i>
-                                        Cristina Jota</li>
-                                    <li class="list-inline-item date text-muted"><i class="mdi mdi-calendar-check"></i> 26th
-                                        June, 2021</li>
+                                        Reishan Tridya Rafly</li>
+                                    <li class="list-inline-item date text-muted"><i class="mdi mdi-calendar-check"></i>10 Juni 2024</li>
                                 </ul>
                             </div>
 
-                            <p class="text-muted mt-3">The most well-known dummy text is the 'Lorem Ipsum', which is said to
-                                have originated in the 16th century. Lorem Ipsum is composed in a pseudo-Latin language
-                                which more or less corresponds to 'proper' Latin. It contains a series of real Latin words.
-                                This ancient dummy text is also incomprehensible, but it imitates the rhythm of most
-                                European languages in Latin script. </p>
-                            <blockquote class="blockquote mt-3 p-3">
-                                <p class="text-muted mb-0 fst-italic">" There are many variations of passages of Lorem Ipsum
-                                    available, but the majority have suffered alteration in some form, by injected humour,
-                                    or randomised words which don't look even slightly believable. "</p>
-                            </blockquote>
-                            <p class="text-muted">The advantage of its Latin origin and the relative meaninglessness of
-                                Lorum Ipsum is that the text does not attract attention to itself or distract the viewer's
-                                attention from the layout.</p>
+                            <p class="text-muted mt-3">Dalam era digital yang terus berkembang, Teknologi Mandiri Sentosa (TMS) memahami pentingnya solusi teknologi inovatif bagi kesuksesan bisnis. Dengan fokus pada pengembangan produk dan layanan yang terdepan dalam industri, TMS menghadirkan solusi yang mampu mengatasi tantangan bisnis modern. Melalui pendekatan inovatif yang terus diperbarui, TMS membantu pelanggan meraih keunggulan kompetitif di pasar yang semakin ketat. </p>
+                           
                             <div class="post-meta mt-3">
                                 <ul class="list-unstyled mb-0">
                                     <li class="list-inline-item me-2 mb-0"><a href="javascript:void(0)"
@@ -56,7 +45,7 @@
                                     <div class="d-flex justify-content-between">
                                         <div class="d-flex align-items-center">
                                             <a class="pe-3" href="#">
-                                                <img src="assets/images/client/01.jpg"
+                                                <img src="{{ asset('assets') }}/images/client/01.jpg"
                                                     class="img-fluid avatar avatar-md-sm rounded-circle shadow"
                                                     alt="img">
                                             </a>
@@ -79,7 +68,7 @@
                                     <div class="d-flex justify-content-between">
                                         <div class="d-flex align-items-center">
                                             <a class="pe-3" href="#">
-                                                <img src="assets/images/client/02.jpg"
+                                                <img src="{{ asset('assets') }}/images/client/02.jpg"
                                                     class="img-fluid avatar avatar-md-sm rounded-circle shadow"
                                                     alt="img">
                                             </a>
@@ -102,7 +91,7 @@
                                     <div class="d-flex justify-content-between">
                                         <div class="d-flex align-items-center">
                                             <a class="pe-3" href="#">
-                                                <img src="assets/images/client/03.jpg"
+                                                <img src="{{ asset('assets') }}/images/client/03.jpg"
                                                     class="img-fluid avatar avatar-md-sm rounded-circle shadow"
                                                     alt="img">
                                             </a>
@@ -125,7 +114,7 @@
                                             <div class="d-flex justify-content-between">
                                                 <div class="d-flex align-items-center">
                                                     <a class="pe-3" href="#">
-                                                        <img src="assets/images/client/01.jpg"
+                                                        <img src="{{ asset('assets') }}/images/client/01.jpg"
                                                             class="img-fluid avatar avatar-md-sm rounded-circle shadow"
                                                             alt="img">
                                                     </a>
@@ -208,8 +197,8 @@
                                 <div class="col-lg-6 mt-4 pt-2">
                                     <div class="card blog blog-primary rounded border-0 shadow">
                                         <div class="position-relative">
-                                            <img src="assets/images/blog/01.jpg" class="card-img-top rounded-top"
-                                                alt="...">
+                                            <img src="{{ asset('assets') }}/images/blog/01.jpg"
+                                                class="card-img-top rounded-top" alt="...">
                                             <div class="overlay rounded-top"></div>
                                         </div>
                                         <div class="card-body content">
@@ -239,8 +228,8 @@
                                 <div class="col-lg-6 mt-4 pt-2">
                                     <div class="card blog blog-primary rounded border-0 shadow">
                                         <div class="position-relative">
-                                            <img src="assets/images/blog/02.jpg" class="card-img-top rounded-top"
-                                                alt="...">
+                                            <img src="{{ asset('assets') }}/images/blog/02.jpg"
+                                                class="card-img-top rounded-top" alt="...">
                                             <div class="overlay rounded-top"></div>
                                         </div>
                                         <div class="card-body content">
@@ -293,12 +282,12 @@
                                 </span>
 
                                 <div class="mt-4">
-                                    <img src="assets/images/client/03.jpg"
+                                    <img src="{{ asset('assets') }}/images/saas/2.png"
                                         class="img-fluid avatar avatar-medium rounded-pill shadow-md d-block mx-auto"
                                         alt="">
 
-                                    <a href="blog-about.html" class="text-primary h5 mt-4 mb-0 d-block">Cristina Jota</a>
-                                    <small class="text-muted d-block">Photographer & Blogger</small>
+                                    <a href="blog-about.html" class="text-primary h5 mt-4 mb-0 d-block">Reishan Tridya Rafly</a>
+                                    <small class="text-muted d-block">Administrator</small>
                                 </div>
                             </div>
                             <!-- Author -->
@@ -311,8 +300,8 @@
 
                                 <div class="mt-4">
                                     <div class="d-flex align-items-center">
-                                        <img src="assets/images/blog/01.jpg" class="avatar avatar-small rounded"
-                                            style="width: auto;" alt="">
+                                        <img src="{{ asset('assets') }}/images/blog/01.jpg"
+                                            class="avatar avatar-small rounded" style="width: auto;" alt="">
                                         <div class="flex-1 ms-3">
                                             <a href="javascript:void(0)" class="d-block title text-dark">Consultant
                                                 Business</a>
@@ -321,8 +310,8 @@
                                     </div>
 
                                     <div class="d-flex align-items-center mt-3">
-                                        <img src="assets/images/blog/02.jpg" class="avatar avatar-small rounded"
-                                            style="width: auto;" alt="">
+                                        <img src="{{ asset('assets') }}/images/blog/02.jpg"
+                                            class="avatar avatar-small rounded" style="width: auto;" alt="">
                                         <div class="flex-1 ms-3">
                                             <a href="javascript:void(0)" class="d-block title text-dark">Grow Your
                                                 Business</a>
@@ -331,8 +320,8 @@
                                     </div>
 
                                     <div class="d-flex align-items-center mt-3">
-                                        <img src="assets/images/blog/03.jpg" class="avatar avatar-small rounded"
-                                            style="width: auto;" alt="">
+                                        <img src="{{ asset('assets') }}/images/blog/03.jpg"
+                                            class="avatar avatar-small rounded" style="width: auto;" alt="">
                                         <div class="flex-1 ms-3">
                                             <a href="javascript:void(0)" class="d-block title text-dark">Look On The
                                                 Glorious Balance</a>
@@ -396,210 +385,4 @@
         </div><!--end container-->
     </section><!--end section-->
     <!-- End -->
-
-    <!-- Insta Post Start -->
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-12 px-0">
-                <div class="tiny-twelve-item">
-                    <div class="tiny-slide">
-                        <div
-                            class="work-container work-primary work-modern position-relative d-block client-testi rounded-0 overflow-hidden">
-                            <div class="card-img position-relative">
-                                <img src="assets/images/blog/travel/01.jpg" class="img-fluid" alt="">
-                                <div class="card-overlay"></div>
-
-                                <div class="icons text-center">
-                                    <a href="assets/images/blog/travel/01.jpg"
-                                        class="work-icon bg-white d-inline-block rounded-pill lightbox"><i
-                                            class="uil uil-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="tiny-slide">
-                        <div
-                            class="work-container work-primary work-modern position-relative d-block client-testi rounded-0 overflow-hidden">
-                            <div class="card-img position-relative">
-                                <img src="assets/images/blog/travel/02.jpg" class="img-fluid" alt="">
-                                <div class="card-overlay"></div>
-
-                                <div class="icons text-center">
-                                    <a href="assets/images/blog/travel/02.jpg"
-                                        class="work-icon bg-white d-inline-block rounded-pill lightbox"><i
-                                            class="uil uil-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="tiny-slide">
-                        <div
-                            class="work-container work-primary work-modern position-relative d-block client-testi rounded-0 overflow-hidden">
-                            <div class="card-img position-relative">
-                                <img src="assets/images/blog/travel/03.jpg" class="img-fluid" alt="">
-                                <div class="card-overlay"></div>
-
-                                <div class="icons text-center">
-                                    <a href="assets/images/blog/travel/03.jpg"
-                                        class="work-icon bg-white d-inline-block rounded-pill lightbox"><i
-                                            class="uil uil-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="tiny-slide">
-                        <div
-                            class="work-container work-primary work-modern position-relative d-block client-testi rounded-0 overflow-hidden">
-                            <div class="card-img position-relative">
-                                <img src="assets/images/blog/travel/04.jpg" class="img-fluid" alt="">
-                                <div class="card-overlay"></div>
-
-                                <div class="icons text-center">
-                                    <a href="assets/images/blog/travel/04.jpg"
-                                        class="work-icon bg-white d-inline-block rounded-pill lightbox"><i
-                                            class="uil uil-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="tiny-slide">
-                        <div
-                            class="work-container work-primary work-modern position-relative d-block client-testi rounded-0 overflow-hidden">
-                            <div class="card-img position-relative">
-                                <img src="assets/images/blog/travel/05.jpg" class="img-fluid" alt="">
-                                <div class="card-overlay"></div>
-
-                                <div class="icons text-center">
-                                    <a href="assets/images/blog/travel/05.jpg"
-                                        class="work-icon bg-white d-inline-block rounded-pill lightbox"><i
-                                            class="uil uil-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="tiny-slide">
-                        <div
-                            class="work-container work-primary work-modern position-relative d-block client-testi rounded-0 overflow-hidden">
-                            <div class="card-img position-relative">
-                                <img src="assets/images/blog/travel/06.jpg" class="img-fluid" alt="">
-                                <div class="card-overlay"></div>
-
-                                <div class="icons text-center">
-                                    <a href="assets/images/blog/travel/06.jpg"
-                                        class="work-icon bg-white d-inline-block rounded-pill lightbox"><i
-                                            class="uil uil-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="tiny-slide">
-                        <div
-                            class="work-container work-primary work-modern position-relative d-block client-testi rounded-0 overflow-hidden">
-                            <div class="card-img position-relative">
-                                <img src="assets/images/blog/travel/07.jpg" class="img-fluid" alt="">
-                                <div class="card-overlay"></div>
-
-                                <div class="icons text-center">
-                                    <a href="assets/images/blog/travel/07.jpg"
-                                        class="work-icon bg-white d-inline-block rounded-pill lightbox"><i
-                                            class="uil uil-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="tiny-slide">
-                        <div
-                            class="work-container work-primary work-modern position-relative d-block client-testi rounded-0 overflow-hidden">
-                            <div class="card-img position-relative">
-                                <img src="assets/images/blog/travel/08.jpg" class="img-fluid" alt="">
-                                <div class="card-overlay"></div>
-
-                                <div class="icons text-center">
-                                    <a href="assets/images/blog/travel/08.jpg"
-                                        class="work-icon bg-white d-inline-block rounded-pill lightbox"><i
-                                            class="uil uil-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="tiny-slide">
-                        <div
-                            class="work-container work-primary work-modern position-relative d-block client-testi rounded-0 overflow-hidden">
-                            <div class="card-img position-relative">
-                                <img src="assets/images/blog/travel/09.jpg" class="img-fluid" alt="">
-                                <div class="card-overlay"></div>
-
-                                <div class="icons text-center">
-                                    <a href="assets/images/blog/travel/09.jpg"
-                                        class="work-icon bg-white d-inline-block rounded-pill lightbox"><i
-                                            class="uil uil-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="tiny-slide">
-                        <div
-                            class="work-container work-primary work-modern position-relative d-block client-testi rounded-0 overflow-hidden">
-                            <div class="card-img position-relative">
-                                <img src="assets/images/blog/travel/10.jpg" class="img-fluid" alt="">
-                                <div class="card-overlay"></div>
-
-                                <div class="icons text-center">
-                                    <a href="assets/images/blog/travel/10.jpg"
-                                        class="work-icon bg-white d-inline-block rounded-pill lightbox"><i
-                                            class="uil uil-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="tiny-slide">
-                        <div
-                            class="work-container work-primary work-modern position-relative d-block client-testi rounded-0 overflow-hidden">
-                            <div class="card-img position-relative">
-                                <img src="assets/images/blog/travel/11.jpg" class="img-fluid" alt="">
-                                <div class="card-overlay"></div>
-
-                                <div class="icons text-center">
-                                    <a href="assets/images/blog/travel/11.jpg"
-                                        class="work-icon bg-white d-inline-block rounded-pill lightbox"><i
-                                            class="uil uil-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="tiny-slide">
-                        <div
-                            class="work-container work-primary work-modern position-relative d-block client-testi rounded-0 overflow-hidden">
-                            <div class="card-img position-relative">
-                                <img src="assets/images/blog/travel/12.jpg" class="img-fluid" alt="">
-                                <div class="card-overlay"></div>
-
-                                <div class="icons text-center">
-                                    <a href="assets/images/blog/travel/12.jpg"
-                                        class="work-icon bg-white d-inline-block rounded-pill lightbox"><i
-                                            class="uil uil-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="position-absolute top-50 start-50 translate-middle d-md-block d-none">
-                    <a href="#" class="btn btn-sm btn-primary text-uppercase">Follow Now</a>
-                </div>
-            </div><!--end col-->
-        </div><!--end row-->
-    </div><!--end container-->
-    <!-- Insta Post End -->
 @endsection

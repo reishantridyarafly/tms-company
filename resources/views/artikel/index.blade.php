@@ -15,10 +15,8 @@
             <div class="position-breadcrumb">
                 <nav aria-label="breadcrumb" class="d-inline-block">
                     <ul class="breadcrumb rounded shadow mb-0 px-4 py-2">
-                        <li class="breadcrumb-item"><a href="index.html">Landrick</a></li>
-                        <li class="breadcrumb-item"><a href="#">Page</a></li>
+                        <li class="breadcrumb-item"><a href="index.html">TMS</a></li>
                         <li class="breadcrumb-item"><a href="#">Blog</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Blog Grid</li>
                     </ul>
                 </nav>
             </div>
@@ -47,8 +45,8 @@
                             <div class="overlay rounded-top"></div>
                         </div>
                         <div class="card-body content">
-                            <h5><a href="javascript:void(0)" class="card-title title text-dark">Design your apps in your own
-                                    way</a></h5>
+                            <h5><a href="javascript:void(0)" class="card-title title text-dark">Menghadirkan Solusi
+                                    Teknologi Inovatif: Kunci Kesuksesan Bisnis di Era Digital</a></h5>
                             <div class="post-meta d-flex justify-content-between mt-3">
                                 <ul class="list-unstyled mb-0">
                                     <li class="list-inline-item me-2 mb-0"><a href="javascript:void(0)"
@@ -56,13 +54,13 @@
                                     <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i
                                                 class="uil uil-comment me-1"></i>08</a></li>
                                 </ul>
-                                <a href="blog-detail.html" class="text-muted readmore">Read More <i
+                                <a href="{{ route('artikel.detail') }}" class="text-muted readmore">Baca Selengkapnya<i
                                         class="uil uil-angle-right-b align-middle"></i></a>
                             </div>
                         </div>
                         <div class="author">
                             <small class="user d-block"><i class="uil uil-user"></i> Calvin Carlo</small>
-                            <small class="date"><i class="uil uil-calendar-alt"></i> 25th June 2021</small>
+                            <small class="date"><i class="uil uil-calendar-alt"></i> 10 Juni 2024</small>
                         </div>
                     </div>
                 </div><!--end col-->
@@ -74,8 +72,8 @@
                             <div class="overlay rounded-top"></div>
                         </div>
                         <div class="card-body content">
-                            <h5><a href="javascript:void(0)" class="card-title title text-dark">How apps is changing the IT
-                                    world</a></h5>
+                            <h5><a href="javascript:void(0)" class="card-title title text-dark">Membangun Hubungan
+                                    Pelanggan yang Berkelanjutan: Kunci Utama Kesuksesan Bisnis TMS</a></h5>
                             <div class="post-meta d-flex justify-content-between mt-3">
                                 <ul class="list-unstyled mb-0">
                                     <li class="list-inline-item me-2 mb-0"><a href="javascript:void(0)"
@@ -83,13 +81,13 @@
                                     <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i
                                                 class="uil uil-comment me-1"></i>08</a></li>
                                 </ul>
-                                <a href="blog-detail.html" class="text-muted readmore">Read More <i
+                                <a href="{{ route('artikel.detail') }}" class="text-muted readmore">Baca Selengkapnya<i
                                         class="uil uil-angle-right-b align-middle"></i></a>
                             </div>
                         </div>
                         <div class="author">
                             <small class="user d-block"><i class="uil uil-user"></i> Calvin Carlo</small>
-                            <small class="date"><i class="uil uil-calendar-alt"></i> 25th June 2021</small>
+                            <small class="date"><i class="uil uil-calendar-alt"></i> 10 Juni 2024</small>
                         </div>
                     </div>
                 </div><!--end col-->
@@ -101,157 +99,22 @@
                             <div class="overlay rounded-top"></div>
                         </div>
                         <div class="card-body content">
-                            <h5><a href="javascript:void(0)" class="card-title title text-dark">Smartest Applications for
-                                    Business</a></h5>
+                            <h5><a href="javascript:void(0)" class="card-title title text-dark">Membangun Budaya Inovasi:
+                                    Kunci Kesuksesan Tim Teknologi Mandiri Sentosa (TMS)</a></h5>
                             <div class="post-meta d-flex justify-content-between mt-3">
                                 <ul class="list-unstyled mb-0">
                                     <li class="list-inline-item me-2 mb-0"><a href="javascript:void(0)"
                                             class="text-muted like"><i class="uil uil-heart me-1"></i>33</a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)"
-                                            class="text-muted comments"><i class="uil uil-comment me-1"></i>08</a></li>
+                                    <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i
+                                                class="uil uil-comment me-1"></i>08</a></li>
                                 </ul>
-                                <a href="blog-detail.html" class="text-muted readmore">Read More <i
+                                <a href="{{ route('artikel.detail') }}" class="text-muted readmore">Baca Selengkapnya<i
                                         class="uil uil-angle-right-b align-middle"></i></a>
                             </div>
                         </div>
                         <div class="author">
                             <small class="user d-block"><i class="uil uil-user"></i> Calvin Carlo</small>
-                            <small class="date"><i class="uil uil-calendar-alt"></i> 25th June 2021</small>
-                        </div>
-                    </div>
-                </div><!--end col-->
-
-                <div class="col-lg-4 col-md-6 mb-4 pb-2">
-                    <div class="card blog blog-primary rounded border-0 shadow overflow-hidden">
-                        <div class="position-relative">
-                            <img src="assets/images/blog/04.jpg" class="card-img-top" alt="...">
-                            <div class="overlay rounded-top"></div>
-                        </div>
-                        <div class="card-body content">
-                            <h5><a href="javascript:void(0)" class="card-title title text-dark">How apps is changing the
-                                    IT world</a></h5>
-                            <div class="post-meta d-flex justify-content-between mt-3">
-                                <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item me-2 mb-0"><a href="javascript:void(0)"
-                                            class="text-muted like"><i class="uil uil-heart me-1"></i>33</a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)"
-                                            class="text-muted comments"><i class="uil uil-comment me-1"></i>08</a></li>
-                                </ul>
-                                <a href="blog-detail.html" class="text-muted readmore">Read More <i
-                                        class="uil uil-angle-right-b align-middle"></i></a>
-                            </div>
-                        </div>
-                        <div class="author">
-                            <small class="user d-block"><i class="uil uil-user"></i> Calvin Carlo</small>
-                            <small class="date"><i class="uil uil-calendar-alt"></i> 25th June 2021</small>
-                        </div>
-                    </div>
-                </div><!--end col-->
-
-                <div class="col-lg-4 col-md-6 mb-4 pb-2">
-                    <div class="card blog blog-primary rounded border-0 shadow overflow-hidden">
-                        <div class="position-relative">
-                            <img src="assets/images/blog/05.jpg" class="card-img-top" alt="...">
-                            <div class="overlay rounded-top"></div>
-                        </div>
-                        <div class="card-body content">
-                            <h5><a href="javascript:void(0)" class="card-title title text-dark">Design your apps in your
-                                    own way</a></h5>
-                            <div class="post-meta d-flex justify-content-between mt-3">
-                                <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item me-2 mb-0"><a href="javascript:void(0)"
-                                            class="text-muted like"><i class="uil uil-heart me-1"></i>33</a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)"
-                                            class="text-muted comments"><i class="uil uil-comment me-1"></i>08</a></li>
-                                </ul>
-                                <a href="blog-detail.html" class="text-muted readmore">Read More <i
-                                        class="uil uil-angle-right-b align-middle"></i></a>
-                            </div>
-                        </div>
-                        <div class="author">
-                            <small class="user d-block"><i class="uil uil-user"></i> Calvin Carlo</small>
-                            <small class="date"><i class="uil uil-calendar-alt"></i> 25th June 2021</small>
-                        </div>
-                    </div>
-                </div><!--end col-->
-
-                <div class="col-lg-4 col-md-6 mb-4 pb-2">
-                    <div class="card blog blog-primary rounded border-0 shadow overflow-hidden">
-                        <div class="position-relative">
-                            <img src="assets/images/blog/06.jpg" class="card-img-top" alt="...">
-                            <div class="overlay rounded-top"></div>
-                        </div>
-                        <div class="card-body content">
-                            <h5><a href="javascript:void(0)" class="card-title title text-dark">Smartest Applications for
-                                    Business</a></h5>
-                            <div class="post-meta d-flex justify-content-between mt-3">
-                                <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item me-2 mb-0"><a href="javascript:void(0)"
-                                            class="text-muted like"><i class="uil uil-heart me-1"></i>33</a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)"
-                                            class="text-muted comments"><i class="uil uil-comment me-1"></i>08</a></li>
-                                </ul>
-                                <a href="blog-detail.html" class="text-muted readmore">Read More <i
-                                        class="uil uil-angle-right-b align-middle"></i></a>
-                            </div>
-                        </div>
-                        <div class="author">
-                            <small class="user d-block"><i class="uil uil-user"></i> Calvin Carlo</small>
-                            <small class="date"><i class="uil uil-calendar-alt"></i> 25th June 2021</small>
-                        </div>
-                    </div>
-                </div><!--end col-->
-
-                <div class="col-lg-4 col-md-6 mb-4 pb-2">
-                    <div class="card blog blog-primary rounded border-0 shadow overflow-hidden">
-                        <div class="position-relative">
-                            <img src="assets/images/blog/07.jpg" class="card-img-top" alt="...">
-                            <div class="overlay rounded-top"></div>
-                        </div>
-                        <div class="card-body content">
-                            <h5><a href="javascript:void(0)" class="card-title title text-dark">Design your apps in your
-                                    own way</a></h5>
-                            <div class="post-meta d-flex justify-content-between mt-3">
-                                <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item me-2 mb-0"><a href="javascript:void(0)"
-                                            class="text-muted like"><i class="uil uil-heart me-1"></i>33</a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)"
-                                            class="text-muted comments"><i class="uil uil-comment me-1"></i>08</a></li>
-                                </ul>
-                                <a href="blog-detail.html" class="text-muted readmore">Read More <i
-                                        class="uil uil-angle-right-b align-middle"></i></a>
-                            </div>
-                        </div>
-                        <div class="author">
-                            <small class="user d-block"><i class="uil uil-user"></i> Calvin Carlo</small>
-                            <small class="date"><i class="uil uil-calendar-alt"></i> 25th June 2021</small>
-                        </div>
-                    </div>
-                </div><!--end col-->
-
-                <div class="col-lg-4 col-md-6 mb-4 pb-2">
-                    <div class="card blog blog-primary rounded border-0 shadow overflow-hidden">
-                        <div class="position-relative">
-                            <img src="assets/images/blog/08.jpg" class="card-img-top" alt="...">
-                            <div class="overlay rounded-top"></div>
-                        </div>
-                        <div class="card-body content">
-                            <h5><a href="javascript:void(0)" class="card-title title text-dark">Smartest Applications for
-                                    Business</a></h5>
-                            <div class="post-meta d-flex justify-content-between mt-3">
-                                <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item me-2 mb-0"><a href="javascript:void(0)"
-                                            class="text-muted like"><i class="uil uil-heart me-1"></i>33</a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)"
-                                            class="text-muted comments"><i class="uil uil-comment me-1"></i>08</a></li>
-                                </ul>
-                                <a href="blog-detail.html" class="text-muted readmore">Read More <i
-                                        class="uil uil-angle-right-b align-middle"></i></a>
-                            </div>
-                        </div>
-                        <div class="author">
-                            <small class="user d-block"><i class="uil uil-user"></i> Calvin Carlo</small>
-                            <small class="date"><i class="uil uil-calendar-alt"></i> 25th June 2021</small>
+                            <small class="date"><i class="uil uil-calendar-alt"></i> 10 Juni 2024</small>
                         </div>
                     </div>
                 </div><!--end col-->
