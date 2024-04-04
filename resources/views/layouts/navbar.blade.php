@@ -1,15 +1,6 @@
 <!-- Navbar Start -->
 <header id="topnav" class="defaultscroll sticky">
     <div class="container">
-        <!-- Logo container-->
-        <a class="logo" href="index.html">
-            <img src="{{ asset('assets') }}/images/logo-dark.png" height="24" class="logo-light-mode"
-                alt="">
-            <img src="{{ asset('assets') }}/images/logo-light.png" height="24" class="logo-dark-mode"
-                alt="">
-        </a>
-        <!-- Logo End -->
-
         <!-- End Logo container-->
         <div class="menu-extras">
             <div class="menu-item">

@@ -8,6 +8,11 @@ class ArtikelController extends Controller
 {
     public function index()
     {
-        return view('artikel');
+        return view('artikel.index');
+    }
+
+    public function detail()
+    {
+        return view('artikel.detail');
     }
 }

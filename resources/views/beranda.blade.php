@@ -263,13 +263,13 @@
                                             class="text-muted comments"><i class="uil uil-comment me-1"></i>08</a>
                                     </li>
                                 </ul>
-                                <a href="blog-detail.html" class="text-muted readmore">Read More <i
+                                <a href="{{ route('artikel.detail') }}" class="text-muted readmore">Baca Selengkapnya <i
                                         class="uil uil-angle-right-b"></i></a>
                             </div>
                         </div>
                         <div class="author">
-                            <small class="user d-block"><i class="uil uil-user"></i> Calvin Carlo</small>
-                            <small class="date"><i class="uil uil-calendar-alt"></i> 25th June 2021</small>
+                            <small class="user d-block"><i class="uil uil-user"></i> Reishan Tridya Rafly</small>
+                            <small class="date"><i class="uil uil-calendar-alt"></i> 10 Juni 2024</small>
                         </div>
                     </div>
                 </div><!--end col-->
@@ -292,13 +292,13 @@
                                             class="text-muted comments"><i class="uil uil-comment me-1"></i>08</a>
                                     </li>
                                 </ul>
-                                <a href="blog-detail.html" class="text-muted readmore">Read More <i
+                                <a href="{{ route('artikel.detail') }}" class="text-muted readmore">Baca Selengkapnya <i
                                         class="uil uil-angle-right-b"></i></a>
                             </div>
                         </div>
                         <div class="author">
-                            <small class="user d-block"><i class="uil uil-user"></i> Calvin Carlo</small>
-                            <small class="date"><i class="uil uil-calendar-alt"></i> 25th June 2021</small>
+                            <small class="user d-block"><i class="uil uil-user"></i> Reishan Tridya Rafly</small>
+                            <small class="date"><i class="uil uil-calendar-alt"></i> 10 Juni 2024</small>
                         </div>
                     </div>
                 </div><!--end col-->
@@ -321,13 +321,13 @@
                                             class="text-muted comments"><i class="uil uil-comment me-1"></i>08</a>
                                     </li>
                                 </ul>
-                                <a href="blog-detail.html" class="text-muted readmore">Read More <i
+                                <a href="{{ route('artikel.detail') }}" class="text-muted readmore">Baca Selengkapnya <i
                                         class="uil uil-angle-right-b"></i></a>
                             </div>
                         </div>
                         <div class="author">
-                            <small class="user d-block"><i class="uil uil-user"></i> Calvin Carlo</small>
-                            <small class="date"><i class="uil uil-calendar-alt"></i> 25th June 2021</small>
+                            <small class="user d-block"><i class="uil uil-user"></i> Reishan Tridya Rafly</small>
+                            <small class="date"><i class="uil uil-calendar-alt"></i> 10 Juni 2024</small>
                         </div>
                     </div>
                 </div><!--end col-->
