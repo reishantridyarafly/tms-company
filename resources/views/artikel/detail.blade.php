@@ -305,7 +305,7 @@
                                         <div class="flex-1 ms-3">
                                             <a href="javascript:void(0)" class="d-block title text-dark">Consultant
                                                 Business</a>
-                                            <span class="text-muted">15th April 2021</span>
+                                            <span class="text-muted">15 April 2023</span>
                                         </div>
                                     </div>
 
@@ -315,7 +315,7 @@
                                         <div class="flex-1 ms-3">
                                             <a href="javascript:void(0)" class="d-block title text-dark">Grow Your
                                                 Business</a>
-                                            <span class="text-muted">15th April 2021</span>
+                                            <span class="text-muted">15 April 2023</span>
                                         </div>
                                     </div>
 
@@ -325,7 +325,7 @@
                                         <div class="flex-1 ms-3">
                                             <a href="javascript:void(0)" class="d-block title text-dark">Look On The
                                                 Glorious Balance</a>
-                                            <span class="text-muted">15th April 2021</span>
+                                            <span class="text-muted">15 April 2023</span>
                                         </div>
                                     </div>
                                 </div>
@@ -335,7 +335,7 @@
                             <!-- TAG CLOUDS -->
                             <div class="widget mt-4">
                                 <span class="bg-light d-block py-2 rounded shadow text-center h6 mb-0">
-                                    Tagclouds
+                                    Tag
                                 </span>
 
                                 <div class="tagcloud text-center mt-4">

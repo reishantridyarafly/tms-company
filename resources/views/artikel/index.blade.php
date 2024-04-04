@@ -45,13 +45,13 @@
                             <div class="overlay rounded-top"></div>
                         </div>
                         <div class="card-body content">
-                            <h5><a href="javascript:void(0)" class="card-title title text-dark">Menghadirkan Solusi
+                            <h5><a href="{{ route('artikel.detail') }}" class="card-title title text-dark">Menghadirkan Solusi
                                     Teknologi Inovatif: Kunci Kesuksesan Bisnis di Era Digital</a></h5>
                             <div class="post-meta d-flex justify-content-between mt-3">
                                 <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item me-2 mb-0"><a href="javascript:void(0)"
+                                    <li class="list-inline-item me-2 mb-0"><a href="{{ route('artikel.detail') }}"
                                             class="text-muted like"><i class="uil uil-heart me-1"></i>33</a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i
+                                    <li class="list-inline-item"><a href="{{ route('artikel.detail') }}" class="text-muted comments"><i
                                                 class="uil uil-comment me-1"></i>08</a></li>
                                 </ul>
                                 <a href="{{ route('artikel.detail') }}" class="text-muted readmore">Baca Selengkapnya<i
@@ -72,13 +72,13 @@
                             <div class="overlay rounded-top"></div>
                         </div>
                         <div class="card-body content">
-                            <h5><a href="javascript:void(0)" class="card-title title text-dark">Membangun Hubungan
+                            <h5><a href="{{ route('artikel.detail') }}" class="card-title title text-dark">Membangun Hubungan
                                     Pelanggan yang Berkelanjutan: Kunci Utama Kesuksesan Bisnis TMS</a></h5>
                             <div class="post-meta d-flex justify-content-between mt-3">
                                 <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item me-2 mb-0"><a href="javascript:void(0)"
+                                    <li class="list-inline-item me-2 mb-0"><a href="{{ route('artikel.detail') }}"
                                             class="text-muted like"><i class="uil uil-heart me-1"></i>33</a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i
+                                    <li class="list-inline-item"><a href="{{ route('artikel.detail') }}" class="text-muted comments"><i
                                                 class="uil uil-comment me-1"></i>08</a></li>
                                 </ul>
                                 <a href="{{ route('artikel.detail') }}" class="text-muted readmore">Baca Selengkapnya<i
@@ -99,13 +99,13 @@
                             <div class="overlay rounded-top"></div>
                         </div>
                         <div class="card-body content">
-                            <h5><a href="javascript:void(0)" class="card-title title text-dark">Membangun Budaya Inovasi:
+                            <h5><a href="{{ route('artikel.detail') }}" class="card-title title text-dark">Membangun Budaya Inovasi:
                                     Kunci Kesuksesan Tim Teknologi Mandiri Sentosa (TMS)</a></h5>
                             <div class="post-meta d-flex justify-content-between mt-3">
                                 <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item me-2 mb-0"><a href="javascript:void(0)"
+                                    <li class="list-inline-item me-2 mb-0"><a href="{{ route('artikel.detail') }}"
                                             class="text-muted like"><i class="uil uil-heart me-1"></i>33</a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i
+                                    <li class="list-inline-item"><a href="{{ route('artikel.detail') }}" class="text-muted comments"><i
                                                 class="uil uil-comment me-1"></i>08</a></li>
                                 </ul>
                                 <a href="{{ route('artikel.detail') }}" class="text-muted readmore">Baca Selengkapnya<i

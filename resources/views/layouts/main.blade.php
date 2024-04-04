@@ -5,6 +5,7 @@
     <meta charset="utf-8" />
     <title>@yield('title') - TMS</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <!-- Css -->
     <link href="{{ asset('assets') }}/libs/tiny-slider/tiny-slider.css" rel="stylesheet">
     <link href="{{ asset('assets') }}/libs/tobii/css/tobii.min.css" rel="stylesheet">
