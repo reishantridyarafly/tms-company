@@ -28,14 +28,14 @@
                         tumbuh dan berkembang dalam era teknologi yang terus berubah dengan cepat.</p>
 
                     <ul class="list-unstyled text-center social-icon social mb-0 mt-4 pt-2">
-                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded-pill"><i
+                        <li class="list-inline-item"><a href="https://facebook.com/reishan.rafly" class="rounded-pill"><i
                                     data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded-pill"><i
+                        <li class="list-inline-item"><a href="https://instagram.com/reishan.rafly" class="rounded-pill"><i
                                     data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded-pill"><i
-                                    data-feather="github" class="fea icon-sm fea-social"></i></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)" class="rounded-pill"><i
-                                    data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="https://www.linkedin.com/in/reishan-tridya-rafly"
+                                class="rounded-pill"><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
+                        <li class="list-inline-item"><a href="https://github.com/reishantridyarafly/"
+                                class="rounded-pill"><i data-feather="github" class="fea icon-sm fea-social"></i></a></li>
                     </ul><!--end icon-->
                 </div><!--end col-->
             </div><!--end row-->
