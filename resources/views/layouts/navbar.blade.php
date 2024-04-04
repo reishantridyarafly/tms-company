@@ -34,7 +34,7 @@
 
                 <li><a href="{{ route('artikel.index') }}" class="sub-menu-item">Artikel</a></li>
 
-                <li><a href="javascript:void(0)" class="sub-menu-item">Kontak</a></li>
+                <li><a href="{{ route('kontak.index') }}" class="sub-menu-item">Kontak</a></li>
             </ul><!--end navigation menu-->
         </div><!--end navigation-->
     </div><!--end container-->
