@@ -7,7 +7,7 @@
             <div class="row mt-5 justify-content-center">
                 <div class="col-lg-12 text-center">
                     <div class="pages-heading">
-                        <h4 class="title mb-0"> Blog </h4>
+                        <h4 class="title mb-0"> @yield('title') </h4>
                     </div>
                 </div> <!--end col-->
             </div><!--end row-->
@@ -15,8 +15,8 @@
             <div class="position-breadcrumb">
                 <nav aria-label="breadcrumb" class="d-inline-block">
                     <ul class="breadcrumb rounded shadow mb-0 px-4 py-2">
-                        <li class="breadcrumb-item"><a href="index.html">TMS</a></li>
-                        <li class="breadcrumb-item"><a href="#">Blog</a></li>
+                        <li class="breadcrumb-item"><a href="{{ route('beranda.index') }}">Beranda</a></li>
+                        <li class="breadcrumb-item"><a href="#">@yield('title')</a></li>
                     </ul>
                 </nav>
             </div>
@@ -59,7 +59,7 @@
                             </div>
                         </div>
                         <div class="author">
-                            <small class="user d-block"><i class="uil uil-user"></i> Calvin Carlo</small>
+                            <small class="user d-block"><i class="uil uil-user"></i> Reishan Tridya Rafly</small>
                             <small class="date"><i class="uil uil-calendar-alt"></i> 10 Juni 2024</small>
                         </div>
                     </div>
@@ -86,7 +86,7 @@
                             </div>
                         </div>
                         <div class="author">
-                            <small class="user d-block"><i class="uil uil-user"></i> Calvin Carlo</small>
+                            <small class="user d-block"><i class="uil uil-user"></i> Reishan Tridya Rafly</small>
                             <small class="date"><i class="uil uil-calendar-alt"></i> 10 Juni 2024</small>
                         </div>
                     </div>
@@ -113,7 +113,7 @@
                             </div>
                         </div>
                         <div class="author">
-                            <small class="user d-block"><i class="uil uil-user"></i> Calvin Carlo</small>
+                            <small class="user d-block"><i class="uil uil-user"></i> Reishan Tridya Rafly</small>
                             <small class="date"><i class="uil uil-calendar-alt"></i> 10 Juni 2024</small>
                         </div>
                     </div>
