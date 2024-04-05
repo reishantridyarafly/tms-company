@@ -1,18 +1,18 @@
 ## Project Screenshots
 # Beranda
-![Beranda](https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg)
+![Beranda](https://drive.google.com/file/d/1DYECJ2JkXNo62pj_hcY1DPN2rvgxgQOP/view?usp=sharing)
 
 # Tentang
-![Tentang](https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg)
+![Tentang](https://drive.google.com/file/d/1RRBrBhVIi7mVdPtfAPy4EpILz9cw84Nd/view?usp=sharing)
 
 # Artikel 
-![Artikel](https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg)
+![Artikel](https://drive.google.com/file/d/1pO5WZEE022ZtWittdzyelXrq6DDqFTaE/view?usp=sharing)
 
 # Detail
-![Detail](https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg)
+![Detail](https://drive.google.com/file/d/11h0c6nKT1rx2cAaLV5c0HHVOZcY84kap/view?usp=sharing)
 
 # Kontak
-![Kontak](https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg)
+![Kontak](https://drive.google.com/file/d/14JpCztPnGMHfhPr2joxRd-BIpD4WRPA0/view?usp=sharing)
 
 
 # Panduan Menjalankan Program
