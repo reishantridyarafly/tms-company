@@ -1,5 +1,5 @@
 ## Project Screenshots
-![Screenshot Aplikasi](images/screenshot.png)
+![Screenshot Aplikasi](https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg)
 
 # Panduan Menjalankan Program
 
