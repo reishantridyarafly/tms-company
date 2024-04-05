@@ -1,20 +1,3 @@
-## Project Screenshots
-# Beranda
-![Beranda](https://drive.google.com/file/d/1DYECJ2JkXNo62pj_hcY1DPN2rvgxgQOP/view?usp=sharing)
-
-# Tentang
-![Tentang](https://drive.google.com/file/d/1RRBrBhVIi7mVdPtfAPy4EpILz9cw84Nd/view?usp=sharing)
-
-# Artikel 
-![Artikel](https://drive.google.com/file/d/1pO5WZEE022ZtWittdzyelXrq6DDqFTaE/view?usp=sharing)
-
-# Detail
-![Detail](https://drive.google.com/file/d/11h0c6nKT1rx2cAaLV5c0HHVOZcY84kap/view?usp=sharing)
-
-# Kontak
-![Kontak](https://drive.google.com/file/d/14JpCztPnGMHfhPr2joxRd-BIpD4WRPA0/view?usp=sharing)
-
-
 # Panduan Menjalankan Program
 
 Ini adalah panduan langkah demi langkah untuk menjalankan aplikasi Laravel dari awal hingga selesai. Ikuti instruksi di bawah ini untuk menginstal dependensi, mengatur database, dan menjalankan server pengembangan Laravel.
