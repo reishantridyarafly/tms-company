@@ -1,3 +1,6 @@
+## Project Screenshots
+![Screenshot Aplikasi](images/screenshot.png)
+
 # Panduan Menjalankan Program
 
 Ini adalah panduan langkah demi langkah untuk menjalankan aplikasi Laravel dari awal hingga selesai. Ikuti instruksi di bawah ini untuk menginstal dependensi, mengatur database, dan menjalankan server pengembangan Laravel.
@@ -42,7 +45,7 @@ Salin file .env.example menjadi .env:
 
     cp .env.example .env
 
-Buka file .env menggunakan editor teks favorit Anda dan ubah bagian dibawah:
+Buka file .env menggunakan editor teks favorit Anda dan ubah bagian APP_NAME - APP_URL seperti code dibawah:
 
     APP_NAME="TMS Company"
     APP_ENV=production
